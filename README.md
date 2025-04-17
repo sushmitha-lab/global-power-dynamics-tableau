@@ -1,4 +1,4 @@
 ## 📸 Preview
 
-![Dashboard Preview](preview.png)
+![Dashboard Preview](preview.jpeg)
 
